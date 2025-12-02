@@ -58,9 +58,9 @@
 <br/>
 
   ## 🤔 Github Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim&theme=tokyonight&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moncher8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim&theme=tokyonight&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moncher8&theme=tokyonight&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
