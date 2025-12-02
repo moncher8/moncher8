@@ -12,7 +12,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a  AI-driven Data Scientist/Analyst from South Korea.<br/>
-  #### :mortar_board: Bachelor of Data Science in Korea University (KU)
+  #### :mortar_board: Bachelor of Data Science 
   <br/>
   <br/>
 
